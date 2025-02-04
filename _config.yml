@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Chiye's Namiya General Store
+title: Chiye's Yorozuya
 subtitle: 'Wish What You See Is What You Get.'
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://chiye.github.io
+url: https://blog.furacc.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
